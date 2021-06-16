@@ -15,7 +15,7 @@ as installs Ubuntu application packages from the Internet.
 To bring up the cluster, clone this repository to a working directory.
 
 ```
-git clone http://github.com/kubernetes-ansible-vagrant/k8s-playground
+git clone http://github.com/arunvel1988/kubernetes-ansible-vagrant/k8s-playground
 ```
 
 Change into the working directory and `vagrant up`
